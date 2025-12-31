@@ -60,4 +60,4 @@ File ini berisi aturan-aturan CSS yang digunakan untuk menata tampilan halaman w
 
 Proyek ini dibuat sebagai latihan untuk mempelajari penggunaan Vue.js dalam pengembangan aplikasi web.
 
-**Date**: Sep 23, 2023
+**Date**: Sep 23, 2021
